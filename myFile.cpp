@@ -4,7 +4,7 @@ using namespace std;
 
 int my_func()
 {
-    cout<<"Hello World";
+    cout<<"Hello my World";
 
     return 0;
 }
