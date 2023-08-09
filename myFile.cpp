@@ -6,5 +6,6 @@ int my_func()
 {
     cout<<"Hello World";
 
-    return 1;
+    return 0;
+
 }
