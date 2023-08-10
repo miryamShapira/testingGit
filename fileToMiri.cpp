@@ -2,9 +2,9 @@
 
 using namespace std;
 
-int main()
+int my_func()
 {
-    cout<<"I enjoy with you"<<endl;
+    cout<<"I Love Efrat";
 
     return 0;
 }
